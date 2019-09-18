@@ -1,2 +1,2 @@
 # Web-Development
-Various types of WebApps and Sites
+Various types of Web Apps and Sites
